@@ -1,4 +1,4 @@
-### A Fullstack Todo-List Web Application using PostgreSQL, Express.js, React and Node.js
+### A Full-Stack Todo-List Web Application using PostgreSQL, Express.js, React and Node.js
 
 #### The technologies used for the Fullstack App consists of PostgreSQL, Express.js, React, Node.js and added some Bootstrap to bring some life into the design.  
 
